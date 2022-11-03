@@ -44,7 +44,7 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
+global.nomorbot = '6285882700465'
 global.nomorown = '6285814417473'
 global.nomorown1 = '6285895257372'
 global.nomorown2 = '6285814417473'
@@ -54,7 +54,7 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Aldi'
+global.author = 'Created By Zynxx'
 global.namebot = 'Zen-bot'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Zynxx'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'

@@ -39,37 +39,37 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285814417473', 'Zynxx', true],
+['6283169566533', 'Michael', true],
 ['6285895257372', 'Zy?', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285882700465'
-global.nomorown = '6285814417473'
+global.nomorown = '6283169566533'
 global.nomorown1 = '6285895257372'
-global.nomorown2 = '6285814417473'
+global.nomorown2 = '6283169566533'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Zynxx'
-global.namebot = 'Zen-bot'
+global.author = 'Created By Michael'
+global.namebot = 'Miz-bot'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Zynxx'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'Zen-bot '
+global.wm2 = 'Miz-bot'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Zynxx`
-global.stickpack = 'Zynxx'
+global.titlebot = `Miz`
+global.stickpack = 'Miz-bit`
 global.stickauth = `© Zen-bot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Zynxx'
+global.nameown1= 'Michael'
 global.nameown2 = 'Zy?'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'waiting'

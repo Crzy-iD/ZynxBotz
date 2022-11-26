@@ -40,13 +40,13 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6283169566533', 'Michael', true],
-['6285895257372', 'Zy?', true]
+['6285895257372', 'Proxz?', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285882700465'
 global.nomorown = '6283169566533'
-global.nomorown1 = '6285895257372'
+global.nomorown1 = '6288268327797'
 global.nomorown2 = '6283169566533'
 global.nomorwa = '0'
 
@@ -54,7 +54,7 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Michael'
+global.author = 'Created By Michael&Proxz'
 global.namebot = 'Miz-bot'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Zynxx'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
@@ -70,7 +70,7 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'Michael'
-global.nameown2 = 'Zy?'
+global.nameown2 = 'Proxz?'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'waiting'
 global.lynk = 'https://lynk.id/hyuuraofc'
